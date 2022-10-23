@@ -78,6 +78,6 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/5yf9snatvg8gkv3x/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ahj-9-1/branch/main)
 
-![page]https://nikitakurys.github.io/AHJ-9.1/
+https://nikitakurys.github.io/AHJ-9.1/
 ---
 
